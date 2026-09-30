@@ -605,7 +605,7 @@ Verify all components with the master test suite:
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ### Author
-**Aryan Yadav**
+**Aritra-Chats**
 - GitHub: [@Aritra-Chats](https://github.com/Aritra-Chats)
 - Email: [aritrathegamer05@gmail.com](mailto:aritrathegamer05@gmail.com)
 
